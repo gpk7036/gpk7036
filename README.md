@@ -28,7 +28,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
  
 - 📄 Download my <a href= "https://drive.google.com/file/d/18hazkpxy9YqTI7wfiOC3CDMbjDMkCTCd/view?usp=drive_link" target="_target">Resume</a>
 
-- 👨‍💻 Portfolio <a href="https://drive.google.com/file/d/18hazkpxy9YqTI7wfiOC3CDMbjDMkCTCd/view?usp=drive_link" target="_blank"> Portfolio</a>
+- 👨‍💻 Portfolio <a href="https://praveen-kumar-gonugunta-portfolio.vercel.app/" target="_blank"> Portfolio</a>
 
 <h2>🥇 Technical Skills:  </h2>  
 
