@@ -26,7 +26,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 - 💬 Open for your suggestions
  
-- 📄 Download my <a href= "https://drive.google.com/file/d/18hazkpxy9YqTI7wfiOC3CDMbjDMkCTCd/view?usp=drive_link" target="_target">Resume</a>
+- 📄 Download my <a href= "https://drive.google.com/file/d/1Vfb9gBg_h6w7_-T8Pd_xNzdm6joyBpun/view?usp=sharing" target="_target">Resume</a>
 
 - 👨‍💻 Portfolio <a href="https://gpk7036.github.io/" target="_blank"> Portfolio</a>
 
